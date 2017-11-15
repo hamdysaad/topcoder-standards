@@ -9,10 +9,12 @@ If you need to use imagery, create a `docs` folder, put your screenshots or imag
 
 --- END NOTES ---
 
-# Project Title Here
+# Eaton PX 2.0 Petting Zoo Material Design - Android Code Challenge
 Deployment Guide
 
 ### Description
+This is challenge series of Eaton PX 2.0 Petting Zoo application using Material Design styling. We are looking to develop a series of demo applications that will provide the same look and feel and functionality across a variety of different Javascript frameworks. These demo apps will serve as a foundation for future applications that will share a common set of core functionality. These applications must utilize the Material Design Components that are available for these specific frameworks like AngularJS, ReactJS, Polymer, MDC Web,  iOS, & Android.
+
 
 ## Prerequisites
 1. Node 4.x
@@ -38,3 +40,8 @@ Note: assume it is a dedicated server not AWS or Heroku.
 ## Running Tests
 
 ## Notes
+This is a demo video for mobile
+https://drive.google.com/file/d/1zs_tsX5ZJmvITvbqMDlAqQfmjo6_07sG/view
+This is a demo video for tablet
+https://drive.google.com/file/d/1MOmn6pK3fgxTA9v3VYTT-7Vb1Zj9Tjp5/view
+
